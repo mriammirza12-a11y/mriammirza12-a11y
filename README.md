@@ -1,4 +1,16 @@
-## Hi there 👋
+Hi, I'm Mriam 👋
+
+🔐 Cybersecurity
+💻 Front-End Developer
+
+About Me
+Interested in cybersecurity and web development.
+
+Tech Stack
+HTML | CSS | JavaScript | Python
+
+Currently Learning
+Cybersecurity & Front-End Development## Hi there 👋
 
 <!--
 **mriammirza12-a11y/mriammirza12-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
